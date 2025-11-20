@@ -19,7 +19,7 @@ A Vert.x-based microservice that calculates loyalty reward points.
 
 1. ### Clone Project
 
-- git clone <repo-url>
+- git clone <[repo-url](https://github.com/Jiyanenm/loyalty-points-services)>
 
 2. ### Build Project
 
